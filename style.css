@@ -45,7 +45,7 @@ h1
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(snowPic.jpg);
+    background-image: url(img/snowPic.jpg);
     background-size: cover;
     
 }
